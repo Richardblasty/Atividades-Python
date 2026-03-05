@@ -1,2 +1,2 @@
 # Atividades-Python
-Minhas atividades do meu curso Técnico de DS.
+Minhas atividades de Python do meu curso Técnico de DS.
